@@ -1,4 +1,3 @@
-package PWO.Threads;
 public class ThreadsEx extends Thread {
     public void run() {
         System.out.println("thread is running by extending thread class");

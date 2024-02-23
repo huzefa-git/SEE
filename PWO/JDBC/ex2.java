@@ -1,4 +1,3 @@
-package PWO.JDBC;
 
 import java.sql.*;
 

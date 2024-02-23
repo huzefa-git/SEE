@@ -1,7 +1,5 @@
 //This code cannot be executed as the Applet in java.applet has been marked for removal
 
-package PWO.Applets;
-
 import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.ActionListener;

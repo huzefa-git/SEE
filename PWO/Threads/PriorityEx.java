@@ -1,4 +1,3 @@
-package PWO.Threads;
 public class PriorityEx extends Thread {
     public void run() {
         System.out.println("Running thread is:" + Thread.currentThread().getName());
